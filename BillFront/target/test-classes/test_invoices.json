@@ -1,0 +1,13 @@
+[
+  
+  {
+    "debtor": "Tommi's Burger Joint",
+    "number": "inv-burger1",
+    "amount": 15000
+  },
+  {
+    "debtor": "fritz-kola",
+    "number": "inv-kola2",
+    "amount": 14000
+  }
+]
